@@ -17,9 +17,9 @@ The goal is to identify key drivers of revenue and uncover actionable insights t
 
 ## 🧰 Tools & Technologies
 
-- Python (Pandas, MLxtend)
+- Google Collab(Python)
 - Power BI
-- Jupyter Notebook
+- Canva
 
 ---
 
@@ -75,9 +75,9 @@ The goal is to identify key drivers of revenue and uncover actionable insights t
 
 ## 🔗 Additional Resources
 
-- 📊 [Power BI Dashboard](YOUR-LINK-HERE)  
-- 📈 [Presentation Slides](YOUR-LINK-HERE)  
-- 📓 [Jupyter Notebook](YOUR-LINK-HERE)  
+- 📊 [Power BI Dashboard](customer_behavior_dashboard.pbix)  
+- 📈 [Presentation Slides](customer_behavior_analysis.pdf)  
+- 📓 [Google Collab Notebook](https://colab.research.google.com/drive/1AnYbpq6VtQRJ1IvaODfY7nA_JyQIDhOH?usp=sharing)
 
 ---
 
